@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <OutputType>Library</OutputType>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <Copyright>Copyright © 2021 MaxHwoy</Copyright>
     <Company>MaxHwoy</Company>
     <Description>Wrapper .NET Core library around DevIL, IL, and ILU libraries.</Description>
@@ -33,7 +33,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.3" />
   </ItemGroup>
 
   <ItemGroup>
